@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "react_native_jobs",
+    "slug": "react_native_jobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "38760412-db49-4caf-8562-0e38d3c8b220"
+      }
+    },
+    "android": {
+      "package": "com.zeldris1134.react_native_jobs"
+    },
+    "ios": {
+      "bundleIdentifier": "ReactNative"
+    }
+  }
+}
